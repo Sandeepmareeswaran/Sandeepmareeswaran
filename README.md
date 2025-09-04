@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
 Hi, I'm **Sandeep Mareeswaran**, a passionate developer focused on **Mobile Application** and **Web Development**. I love building innovative solutions and exploring the intersection of technology and creativity.
-**Life is the jurney between birth to death**
+
 
 ## 🌟 About Me
 - 🔍 **Interests**: Crafting user-friendly mobile apps and dynamic web experiences.
