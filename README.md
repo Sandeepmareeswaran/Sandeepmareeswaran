@@ -152,10 +152,6 @@ const sandeep = {
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sandeepmareeswaran&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10"/>
-</p>
-
-<p align="center">
 
 | 🏅 | Event | Result |
 |:---:|:---|:---:|
