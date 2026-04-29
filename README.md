@@ -207,6 +207,8 @@ Full-stack **e-commerce platform** — catalog, cart, payment gateway. Self-depl
 
 | 🏅 | Competition | Organizer | Result |
 |:---:|:---|:---|:---:|
+| 🏅 | **42nd Annual Day — Innovation Category** | KEC | **Special Award** |
+| 🏅 | **Academic Excellience Award** | KEC | **Scholarship** |
 | 🥇 | **IBM SkillsBuild Generative AI Hackathon** | IBM | **1st Prize** |
 | 🥇 | **Nilgiris Impact Challenge** | District Govt. of Nilgiris | **1st Prize** |
 | 🥇 | **Freelancer Club Hackathon** | Freelancer Club | **1st Prize** |
@@ -215,7 +217,7 @@ Full-stack **e-commerce platform** — catalog, cart, payment gateway. Self-depl
 | 🥈 | **Paper Presentation** | Academic | **2nd Prize** |
 | 🥉 | **HackSpeare** | HackSpeare | **3rd Prize** |
 | 🥉 | **KEC Hackathon 2025** | KEC | **3rd Prize** |
-| 🏅 | **42nd Annual Day — Innovation Category** | KEC | **Special Award** |
+
 
 </div>
 
