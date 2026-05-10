@@ -9,10 +9,6 @@
 
 <!-- ── NAME — reliable typing SVG, no external image service ── -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=1&pause=99999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=780&height=70&lines=SANDEEP+MAREESWARAN" alt="Sandeep Mareeswaran"/>
-
-<!-- ── ROLE LINE — orange, static ── -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=1&pause=99999&color=F97316&center=true&vCenter=true&repeat=false&width=780&height=32&lines=AIML+Student+%26+Full-Stack+Developer+%7C+Co-Founder+%40+Outliers+United" alt="Role"/>
-
 <br/>
 
 <!-- ── QUICK STATS ROW ── -->
@@ -92,7 +88,6 @@
 | 🎓 &nbsp;**College** | Kongu Engineering College — B.Tech AI & ML |
 | 📍 &nbsp;**Location** | Tamil Nadu, India 🇮🇳 |
 | 💼 &nbsp;**Currently** | Mobile App Dev @ **Ligths.in** |
-| 🚀 &nbsp;**Venture** | Co-Founder @ **Outliers United** |
 | 🏆 &nbsp;**Record** | 4× First Prize · District Govt Recognized |
 | ⚙️ &nbsp;**Infra** | Self-managed DNS + SSL + VPS |
 | 💡 &nbsp;**Creed** | *Build real. Ship fast. Matter.* |
