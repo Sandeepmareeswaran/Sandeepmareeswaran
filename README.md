@@ -1,70 +1,53 @@
 <!-- ════════════════════════════════════════════════════════════════════ -->
-<!--            SANDEEP MAREESWARAN  —  GitHub Profile README           -->
-<!--        Purple #8B5CF6  ·  Orange #F97316  ·  Dark #0D0D0D         -->
+<!--     SANDEEP MAREESWARAN  —  MONOCHROME BLACK EDITION            -->
+<!--     Background: #000  ·  Text: #fff  ·  Accent: #888             -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <br/>
 
-<!-- ── NAME — reliable typing SVG, no external image service ── -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=1&pause=99999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=780&height=70&lines=SANDEEP+MAREESWARAN" alt="Sandeep Mareeswaran"/>
+<!-- ── TYPING HEADER ── WHITE TEXT ── -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=44&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&repeat=true&width=900&height=80&lines=SANDEEP+MAREESWARAN;FULL-STACK+AI+ARCHITECT;4%C3%97+HACKATHON+WINNER;BUILD+%26+SCALE+PRODUCTS" alt="Sandeep Mareeswaran" />
+
 <br/>
 
-<!-- ── QUICK STATS ROW ── -->
-![Hackathons](https://img.shields.io/badge/🥇_Hackathons-4×_First_Prize-8B5CF6?style=flat-square&labelColor=0D0D0D)
+<!-- ── STATUS BADGES ── WHITE ON BLACK ── -->
+<img src="https://img.shields.io/badge/🚀_BUILDING-ACTIVE-000?style=for-the-badge&logoColor=white&color=ffffff&labelColor=000000"/>
 &nbsp;
-![CGPA](https://img.shields.io/badge/🎓_CGPA-8.61_/_10-8B5CF6?style=flat-square&labelColor=0D0D0D)
+<img src="https://img.shields.io/badge/🏆_WINS-4×_First-000?style=for-the-badge&logoColor=white&color=ffffff&labelColor=000000"/>
 &nbsp;
-![Recognition](https://img.shields.io/badge/🏛️_Govt-District_Recognized-F97316?style=flat-square&labelColor=0D0D0D)
+<img src="https://img.shields.io/badge/🎓_CGPA-8.64_/_10-000?style=for-the-badge&logoColor=white&color=ffffff&labelColor=000000"/>
 &nbsp;
-![Location](https://img.shields.io/badge/📍_Based-Tamil_Nadu,_India-F97316?style=flat-square&labelColor=0D0D0D)
+<img src="https://img.shields.io/badge/🏛️_GOVT-District_Recognized-000?style=for-the-badge&logoColor=white&color=ffffff&labelColor=000000"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📍_Tamil_Nadu,_India-000?style=for-the-badge&logoColor=white&color=ffffff&labelColor=000000"/>
 
 <br/><br/>
 
-<!-- ── PIPELINE — Research → Develop → Deploy → Impact ── -->
-<table border="0"><tr>
-<td align="center" width="160">
-  <img src="https://img.shields.io/badge/─────────────-0D0D0D?style=for-the-badge&labelColor=0D0D0D"/><br/>
-  <img src="https://img.shields.io/badge/🔍_RESEARCH-8B5CF6?style=for-the-badge&labelColor=0D0D0D&color=8B5CF6"/><br/>
-  <sub><i>Explore · Ideate</i></sub>
-</td>
-<td align="center" width="30"><b>›</b></td>
-<td align="center" width="160">
-  <img src="https://img.shields.io/badge/─────────────-0D0D0D?style=for-the-badge&labelColor=0D0D0D"/><br/>
-  <img src="https://img.shields.io/badge/%3C%2F%3E_DEVELOP-8B5CF6?style=for-the-badge&labelColor=0D0D0D&color=8B5CF6"/><br/>
-  <sub><i>Build · Architect</i></sub>
-</td>
-<td align="center" width="30"><b>›</b></td>
-<td align="center" width="160">
-  <img src="https://img.shields.io/badge/─────────────-0D0D0D?style=for-the-badge&labelColor=0D0D0D"/><br/>
-  <img src="https://img.shields.io/badge/🚀_DEPLOY-F97316?style=for-the-badge&labelColor=0D0D0D&color=F97316"/><br/>
-  <sub><i>Ship · Scale</i></sub>
-</td>
-<td align="center" width="30"><b>›</b></td>
-<td align="center" width="160">
-  <img src="https://img.shields.io/badge/─────────────-0D0D0D?style=for-the-badge&labelColor=0D0D0D"/><br/>
-  <img src="https://img.shields.io/badge/🎯_IMPACT-F97316?style=for-the-badge&labelColor=0D0D0D&color=F97316"/><br/>
-  <sub><i>Matter · Grow</i></sub>
-</td>
-</tr></table>
+<!-- ── TERMINAL PIPELINE ── BORDER: WHITE ── -->
+<pre style="background:#000000; padding:14px 28px; border-radius:16px; border:2px solid #ffffff; display:inline-block; font-family:'JetBrains Mono',monospace; color:#ffffff; font-size:16px; letter-spacing:0.5px;">
+<span style="color:#ffffff;">$</span> pipeline <span style="color:#aaaaaa;">--stage</span>
+<span style="color:#555;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>
+<span style="color:#ffffff;">🔍 Research</span>  <span style="color:#aaaaaa;">▸</span>  <span style="color:#ffffff;">`</span> <span style="color:#aaaaaa;">/</span> <span style="color:#ffffff;"> Develop</span>  <span style="color:#aaaaaa;">▸</span>  <span style="color:#ffffff;">🚀 Deploy</span>  <span style="color:#aaaaaa;">▸</span>  <span style="color:#ffffff;">🎯 Impact</span>
+</pre>
 
 <br/>
 
 <!-- ── SOCIAL LINKS ── -->
 <a href="https://www.linkedin.com/in/sandeepmareeswaran">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-000?style=for-the-badge&logo=linkedin&logoColor=white&color=ffffff&labelColor=000000"/>
 </a>
 &nbsp;
 <a href="https://sandeep.outliersunited.com">
-  <img src="https://img.shields.io/badge/Portfolio-See_My_Work-8B5CF6?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0D0D0D"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=firefox&logoColor=white&color=ffffff&labelColor=000000"/>
 </a>
 &nbsp;
 <a href="mailto:sandeepmaree2005@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Get_in_Touch-F97316?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact-000?style=for-the-badge&logo=gmail&logoColor=white&color=ffffff&labelColor=000000"/>
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=Sandeepmareeswaran&label=Profile+Views&color=8B5CF6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Sandeepmareeswaran&label=Profile+Views&color=ffffff&style=for-the-badge&labelColor=000000"/>
 
 </div>
 
@@ -72,62 +55,77 @@
 
 ---
 
-## &nbsp; `$ whoami`
+## &nbsp; `$ cat ~/about.md`
 
-<img align="right" width="260"
-  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding animation"/>
 
-> *I'm passionate about transforming ideas into impactful digital solutions*
-> *through **Artificial Intelligence** and **Modern Web Technologies**.*
-> *Let's build something amazing together.*
-
-<br/>
+> *I architect AI-powered systems and modern web products that ship fast and matter.*
 
 | | |
 |---|---|
 | 🎓 &nbsp;**College** | Kongu Engineering College — B.Tech AI & ML |
-| 📍 &nbsp;**Location** | Tamil Nadu, India 🇮🇳 |
-| 💼 &nbsp;**Currently** | Mobile App Dev @ **Ligths.in** |
-| 🏆 &nbsp;**Record** | 4× First Prize · District Govt Recognized |
-| ⚙️ &nbsp;**Infra** | Self-managed DNS + SSL + VPS |
+| 📍 &nbsp;**Location** | Tamil Nadu, India |
+| 💼 &nbsp;**Currently** | Mobile App Developer @ **Ligths.in** |
+| 🏆 &nbsp;**Hackathons** | 4× First Prize · District Govt. Recognized |
+| ⚙️ &nbsp;**Infrastructure** | Self‑managed DNS + SSL + VPS |
 | 💡 &nbsp;**Creed** | *Build real. Ship fast. Matter.* |
 
 <br clear="right"/>
 
 ---
 
-## &nbsp; `$ status --live`
+## &nbsp; `$ systemctl status projects`
 
 | Stage | Project | Signal |
 |:---|:---|:---:|
-| 🔍 **Research** | Edge AI + Geospatial Intelligence Pipelines | ![](https://img.shields.io/badge/LEARNING-8B5CF6?style=flat-square&labelColor=0D0D0D) |
-| `</>` **Develop** | AI-Powered Mobile App @ Ligths.in | ![](https://img.shields.io/badge/ACTIVE-8B5CF6?style=flat-square&labelColor=0D0D0D) |
-| 🚀 **Deploy** | Dev Agency & Product Studio @ Outliers United | ![](https://img.shields.io/badge/ACTIVE-F97316?style=flat-square&labelColor=0D0D0D) |
-| 🎯 **Impact** | Next Big Launch — watch the repos 👀 | ![](https://img.shields.io/badge/PLANNING-F97316?style=flat-square&labelColor=0D0D0D) |
+| 🔍 **Research** | Edge AI + Geospatial Intelligence Pipelines | ![](https://img.shields.io/badge/LEARNING-ffffff?style=flat-square&labelColor=000000&color=000000) |
+| `</>` **Develop** | AI‑Powered Mobile App @ Ligths.in | ![](https://img.shields.io/badge/ACTIVE-ffffff?style=flat-square&labelColor=000000&color=000000) |
+| 🚀 **Deploy** | Dev Agency & Product Studio @ Outliers United | ![](https://img.shields.io/badge/ACTIVE-ffffff?style=flat-square&labelColor=000000&color=000000) |
+| 🎯 **Impact** | Next Big Launch — watch the repos 👀 | ![](https://img.shields.io/badge/PLANNING-ffffff?style=flat-square&labelColor=000000&color=000000) |
 
 <br/>
 
 ---
 
-## &nbsp; `$ stack --list`
+## &nbsp; `$ ls -l /stack/`
 
 <div align="center">
 
 **Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=ffffff"/>
 
-<img src="https://skillicons.dev/icons?i=python,js,java,c&theme=dark&perline=8"/>
+<br/><br/>
 
 **Web & Mobile**
+<br/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
 
-<img src="https://skillicons.dev/icons?i=react,expo,html,css,tailwind,vite&theme=dark&perline=8"/>
+<br/><br/>
 
 **Backend & Data**
+<br/>
+<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3FCF8E"/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
 
-<img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,supabase,nodejs&theme=dark&perline=8"/>
+<br/><br/>
 
 **DevOps · AI · Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,tensorflow,arduino&theme=dark&perline=8"/>
+<br/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=00979D"/>
 
 </div>
 
@@ -135,32 +133,32 @@
 
 ---
 
-## &nbsp; `$ projects --shipped`
+## &nbsp; `$ git log --oneline --projects`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 💰 &nbsp;Cashman — AI Finance Assistant
-<a href="https://outliersunited.com/cashman"><img src="https://img.shields.io/badge/LIVE_APP-8B5CF6?style=for-the-badge&logo=react&logoColor=white&labelColor=0D0D0D"/></a>
+<a href="https://outliersunited.com/cashman"><img src="https://img.shields.io/badge/LIVE_APP-000?style=for-the-badge&logo=react&logoColor=white&color=ffffff&labelColor=000000"/></a>
 
-AI-powered **mobile app** for tracking income, expenses & savings with smart insights and visual analytics.
+AI‑powered **mobile app** that tracks income, expenses & savings with smart visual insights.
 
-![](https://img.shields.io/badge/React_Native-0D0D0D?style=flat-square&logo=react&logoColor=8B5CF6)
-![](https://img.shields.io/badge/Firebase-0D0D0D?style=flat-square&logo=firebase&logoColor=F97316)
-![](https://img.shields.io/badge/AI_APIs-0D0D0D?style=flat-square&logo=openai&logoColor=8B5CF6)
+<img src="https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=FFCA28"/>
+<img src="https://img.shields.io/badge/AI_APIs-000000?style=flat-square&logo=openai&logoColor=ffffff"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 👓 &nbsp;Aram Eyecare — E-Commerce
-<a href="https://arameyecare.com"><img src="https://img.shields.io/badge/LIVE_SITE-8B5CF6?style=for-the-badge&logo=react&logoColor=white&labelColor=0D0D0D"/></a>
+### 👓 &nbsp;Aram Eyecare — E‑Commerce
+<a href="https://arameyecare.com"><img src="https://img.shields.io/badge/LIVE_SITE-000?style=for-the-badge&logo=react&logoColor=white&color=ffffff&labelColor=000000"/></a>
 
-Full-stack **e-commerce platform** — catalog, cart, payment gateway. Self-deployed on VPS. Zero cloud dependency.
+Full‑stack **e‑commerce** with catalog, cart, payment gateway — deployed on a self‑managed VPS.
 
-![](https://img.shields.io/badge/React-0D0D0D?style=flat-square&logo=react&logoColor=8B5CF6)
-![](https://img.shields.io/badge/TailwindCSS-0D0D0D?style=flat-square&logo=tailwind-css&logoColor=8B5CF6)
-![](https://img.shields.io/badge/VPS-0D0D0D?style=flat-square&logo=linux&logoColor=F97316)
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/VPS-000000?style=flat-square&logo=linux&logoColor=FCC624"/>
 
 </td>
 </tr>
@@ -168,25 +166,25 @@ Full-stack **e-commerce platform** — catalog, cart, payment gateway. Self-depl
 <td width="50%" valign="top">
 
 ### 🌿 &nbsp;SurePure — Air Quality IoT
-<img src="https://img.shields.io/badge/IoT_+_Mobile_+_Web-F97316?style=for-the-badge&logo=espressif&logoColor=white&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/IoT_+_Mobile_+_Web-000?style=for-the-badge&logo=espressif&logoColor=white&color=ffffff&labelColor=000000"/>
 
-**End-to-end IoT system** — ESP32 sensors → centralized React dashboard → React Native app for real-time monitoring.
+**End‑to‑end IoT system** — ESP32 sensors → React dashboard → React Native monitoring app.
 
-![](https://img.shields.io/badge/ESP32-0D0D0D?style=flat-square&logo=espressif&logoColor=F97316)
-![](https://img.shields.io/badge/React-0D0D0D?style=flat-square&logo=react&logoColor=8B5CF6)
-![](https://img.shields.io/badge/React_Native-0D0D0D?style=flat-square&logo=react&logoColor=8B5CF6)
+<img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=E7352C"/>
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=61DAFB"/>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🗺️ &nbsp;Geospatial Risk Scoring Engine
-<img src="https://img.shields.io/badge/DISTRICT_GOVT_RECOGNIZED-F97316?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/DISTRICT_GOVT_RECOGNIZED-000?style=for-the-badge&logo=googlemaps&logoColor=white&color=ffffff&labelColor=000000"/>
 
-**AI-based geospatial risk scorer** for Nilgiris building approvals. Awarded at District Government level.
+**AI‑based geospatial risk scorer** for Nilgiris building approvals. Awarded at the District Government level.
 
-![](https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=8B5CF6)
-![](https://img.shields.io/badge/GIS-0D0D0D?style=flat-square&logo=googlemaps&logoColor=F97316)
-![](https://img.shields.io/badge/TensorFlow-0D0D0D?style=flat-square&logo=tensorflow&logoColor=F97316)
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/GIS-000000?style=flat-square&logo=googlemaps&logoColor=4285F4"/>
+<img src="https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
 
 </td>
 </tr>
@@ -196,16 +194,16 @@ Full-stack **e-commerce platform** — catalog, cart, payment gateway. Self-depl
 
 ---
 
-## &nbsp; `$ achievements --all`
+## &nbsp; `$ cat achievements.log`
 
 <div align="center">
 
 | 🏅 | Competition | Organizer | Result |
 |:---:|:---|:---|:---:|
-| 🏅 | **42nd Annual Day — Innovation Category** | KEC | **Special Award** |
-| 🏅 | **Academic Excellience Award** | KEC | **Scholarship** |
-| 🥇 | **IBM SkillsBuild Generative AI Hackathon** | IBM | **1st Prize** |
-| 🥇 | **Nilgiris Impact Challenge** | District Govt. of Nilgiris | **1st Prize** |
+| 🏅 | **42nd Annual Day — Innovation** | KEC | **Special Award** |
+| 🏅 | **Academic Excellence Award** | KEC | **Scholarship** |
+| 🥇 | **IBM SkillsBuild GenAI Hackathon** | IBM | **1st Prize** |
+| 🥇 | **Nilgiris Impact Challenge** | District Govt. | **1st Prize** |
 | 🥇 | **Freelancer Club Hackathon** | Freelancer Club | **1st Prize** |
 | 🥇 | **SIH Internal Hackathon — Round 3** | KEC | **1st Prize** |
 | 🥈 | **BYTS Hackathon** | BYTS | **2nd Prize** |
@@ -213,6 +211,19 @@ Full-stack **e-commerce platform** — catalog, cart, payment gateway. Self-depl
 | 🥉 | **HackSpeare** | HackSpeare | **3rd Prize** |
 | 🥉 | **KEC Hackathon 2025** | KEC | **3rd Prize** |
 
+</div>
+
+<br/>
+
+---
+
+## &nbsp; `$ certs --list`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/NVIDIA-Generative_AI_with_Diffusion_Models_2025-000?style=for-the-badge&logo=nvidia&logoColor=white&color=ffffff&labelColor=000000"/>
+&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-Associate_Developer_2025-000?style=for-the-badge&logo=mongodb&logoColor=white&color=ffffff&labelColor=000000"/>
 
 </div>
 
@@ -220,39 +231,25 @@ Full-stack **e-commerce platform** — catalog, cart, payment gateway. Self-depl
 
 ---
 
-## &nbsp; `$ certs --verify`
+## &nbsp; `$ github --dashboard`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/NVIDIA-Generative_AI_with_Diffusion_Models_2025-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=0D0D0D"/>
+<img src="https://github-stats-extended.vercel.app/api/trophies?username=Sandeepmareeswaran&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+
+<br/><br/>
+
+<img src="https://github-stats-extended.vercel.app/api?username=Sandeepmareeswaran&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&bg_color=000000&ring_color=ffffff" width="47%"/>
 &nbsp;
-<img src="https://img.shields.io/badge/MongoDB-Associate_Developer_2025-00ED64?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D0D0D"/>
-
-</div>
-
-<br/>
-
----
-
-## &nbsp; `$ github --stats`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sandeepmareeswaran&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+<img src="https://streak-stats.demolab.com/?user=Sandeepmareeswaran&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=888888&currStreakNum=ffffff&sideNums=ffffff" width="47%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sandeepmareeswaran&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=F97316&text_color=ffffff&bg_color=0D0D0D&ring_color=8B5CF6" width="47%"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeepmareeswaran&hide_border=true&background=0D0D0D&ring=8B5CF6&fire=F97316&currStreakLabel=8B5CF6&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" width="47%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Sandeepmareeswaran&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&langs_count=10" width="47%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeepmareeswaran&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=8B5CF6&text_color=ffffff&langs_count=10" width="47%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandeepmareeswaran&bg_color=0D0D0D&color=8B5CF6&line=8B5CF6&point=F97316&area=true&area_color=8B5CF6&hide_border=true" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandeepmareeswaran&bg_color=000000&color=ffffff&line=ffffff&point=aaaaaa&area=true&area_color=ffffff&hide_border=true" width="96%"/>
 
 <br/>
 
@@ -264,7 +261,7 @@ Full-stack **e-commerce platform** — catalog, cart, payment gateway. Self-depl
 
 ---
 
-## &nbsp; `$ connect --open`
+## &nbsp; `$ tmux attach -t connect`
 
 <div align="center">
 
@@ -276,20 +273,20 @@ Full-stack **e-commerce platform** — catalog, cart, payment gateway. Self-depl
 <br/>
 
 <a href="https://www.linkedin.com/in/sandeepmareeswaran">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-000?style=for-the-badge&logo=linkedin&logoColor=white&color=ffffff&labelColor=000000"/>
 </a>
 &nbsp;
 <a href="https://sandeep.outliersunited.com">
-  <img src="https://img.shields.io/badge/Portfolio-See_My_Work-8B5CF6?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0D0D0D"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=firefox&logoColor=white&color=ffffff&labelColor=000000"/>
 </a>
 &nbsp;
 <a href="mailto:sandeepmaree2005@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Get_in_Touch-F97316?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact-000?style=for-the-badge&logo=gmail&logoColor=white&color=ffffff&labelColor=000000"/>
 </a>
 
 <br/><br/>
 
-![footer](https://img.shields.io/badge/Research_›_Develop_›_Deploy_›_Impact-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=8B5CF6)
+<img src="https://img.shields.io/badge/Research_›_Develop_›_Deploy_›_Impact-000?style=for-the-badge&labelColor=000000&color=ffffff"/>
 
 <br/>
 
