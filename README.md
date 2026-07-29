@@ -7,8 +7,11 @@
 
 <br/>
 
+<!-- SEO: Sandeep Mareeswaran — AI/ML Engineer, Full-Stack Developer, Kongu Engineering College.
+     Projects: VoxShield (audio deepfake detection), CashMan (AI personal finance app), Outliers United. -->
+
 <!-- ── TYPING HEADER ── WHITE TEXT ── -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=44&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&repeat=true&width=900&height=80&lines=SANDEEP+MAREESWARAN;FULL-STACK+AI+ARCHITECT;4%C3%97+HACKATHON+WINNER;BUILD+%26+SCALE+PRODUCTS" alt="Sandeep Mareeswaran" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=44&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&repeat=true&width=900&height=80&lines=SANDEEP+MAREESWARAN;AI+%2F+ML+ENGINEER+%26+FULL-STACK+DEVELOPER;VOXSHIELD+%E2%80%94+AUDIO+DEEPFAKE+DETECTION;4%C3%97+HACKATHON+WINNER" alt="Sandeep Mareeswaran - AI ML Engineer and Full Stack Developer" />
 
 <br/>
 
@@ -63,9 +66,10 @@
 
 | | |
 |---|---|
-| 🎓 &nbsp;**College** | Kongu Engineering College — B.Tech AI & ML |
+| 🎓 &nbsp;**College** | Kongu Engineering College — B.Tech AI & ML (2027) |
 | 📍 &nbsp;**Location** | Tamil Nadu, India |
-| 💼 &nbsp;**Currently** | Mobile App Developer @ **Ligths.in** |
+| 💼 &nbsp;**Currently** | Mobile App Developer Intern @ **Ligths.in** — building an AI-powered Personal Finance App |
+| 🔬 &nbsp;**Research Project** | **VoxShield** — Audio Deepfake / Spoofing Detection (wav2vec2 + CNN/LFCC) |
 | 🏆 &nbsp;**Hackathons** | 4× First Prize · District Govt. Recognized |
 | ⚙️ &nbsp;**Infrastructure** | Self‑managed DNS + SSL + VPS |
 | 💡 &nbsp;**Creed** | *Build real. Ship fast. Matter.* |
@@ -78,8 +82,8 @@
 
 | Stage | Project | Signal |
 |:---|:---|:---:|
-| 🔍 **Research** | Edge AI + Geospatial Intelligence Pipelines | ![](https://img.shields.io/badge/LEARNING-ffffff?style=flat-square&labelColor=000000&color=000000) |
-| `</>` **Develop** | AI‑Powered Mobile App @ Ligths.in | ![](https://img.shields.io/badge/ACTIVE-ffffff?style=flat-square&labelColor=000000&color=000000) |
+| 🔍 **Research** | VoxShield — Audio Deepfake Detection | ![](https://img.shields.io/badge/ACTIVE-ffffff?style=flat-square&labelColor=000000&color=000000) |
+| `</>` **Develop** | AI-Powered Personal Finance App @ Ligths.in | ![](https://img.shields.io/badge/ACTIVE-ffffff?style=flat-square&labelColor=000000&color=000000) |
 | 🚀 **Deploy** | Dev Agency & Product Studio @ Outliers United | ![](https://img.shields.io/badge/ACTIVE-ffffff?style=flat-square&labelColor=000000&color=000000) |
 | 🎯 **Impact** | Next Big Launch — watch the repos 👀 | ![](https://img.shields.io/badge/PLANNING-ffffff?style=flat-square&labelColor=000000&color=000000) |
 
@@ -139,16 +143,30 @@
 <tr>
 <td width="50%" valign="top">
 
-### 💰 &nbsp;Cashman — AI Finance Assistant
+### 🎙️ &nbsp;VoxShield — Audio Deepfake Detection
+<img src="https://img.shields.io/badge/RESEARCH_PROJECT-000?style=for-the-badge&logo=soundcharts&logoColor=white&color=ffffff&labelColor=000000"/>
+
+**Dual-branch audio spoofing detector** combining wav2vec2 self-supervised embeddings with a CNN/LFCC pipeline. Trained on ASVspoof2019 LA, evaluated on ASVspoof2021 LA.
+
+<img src="https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/wav2vec2-000000?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=ffffff"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 &nbsp;Cashman — AI Personal Finance App
 <a href="https://outliersunited.com/cashman"><img src="https://img.shields.io/badge/LIVE_APP-000?style=for-the-badge&logo=react&logoColor=white&color=ffffff&labelColor=000000"/></a>
 
-AI‑powered **mobile app** that tracks income, expenses & savings with smart visual insights.
+AI‑powered **mobile app** built during my internship at Ligths.in — tracks income, expenses & savings with smart visual insights.
 
 <img src="https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=FFCA28"/>
 <img src="https://img.shields.io/badge/AI_APIs-000000?style=flat-square&logo=openai&logoColor=ffffff"/>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 👓 &nbsp;Aram Eyecare — E‑Commerce
@@ -161,8 +179,6 @@ Full‑stack **e‑commerce** with catalog, cart, payment gateway — deployed o
 <img src="https://img.shields.io/badge/VPS-000000?style=flat-square&logo=linux&logoColor=FCC624"/>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🌿 &nbsp;SurePure — Air Quality IoT
@@ -173,18 +189,6 @@ Full‑stack **e‑commerce** with catalog, cart, payment gateway — deployed o
 <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=E7352C"/>
 <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=61DAFB"/>
-
-</td>
-<td width="50%" valign="top">
-
-### 🗺️ &nbsp;Geospatial Risk Scoring Engine
-<img src="https://img.shields.io/badge/DISTRICT_GOVT_RECOGNIZED-000?style=for-the-badge&logo=googlemaps&logoColor=white&color=ffffff&labelColor=000000"/>
-
-**AI‑based geospatial risk scorer** for Nilgiris building approvals. Awarded at the District Government level.
-
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/GIS-000000?style=flat-square&logo=googlemaps&logoColor=4285F4"/>
-<img src="https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
 
 </td>
 </tr>
